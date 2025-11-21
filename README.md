@@ -6,6 +6,28 @@ Full Technical & Institutional Briefing Report
 Prepared by: Liam Highcock
 Date: 18 November 2025
 
+---
+
+## 🔍 Repository Quality Notice
+
+**Current Repository Build Quality: ⭐⭐ (2/5 - Requires Improvement)**
+
+This repository has been assessed for software engineering quality. While the application concept is sound, the repository structure needs significant improvement to meet professional development standards.
+
+📊 **Quick Assessment:**
+- ✅ Good concept and documentation
+- ✅ Modern technology stack
+- ❌ Source code in zip file (not version controlled)
+- ❌ No testing infrastructure
+- ❌ No CI/CD validation
+- ❌ Monolithic code structure
+
+📁 **Quality Reports:**
+- [Complete Quality Assessment](./REPOSITORY_QUALITY_ASSESSMENT.md) - Detailed analysis of all issues
+- [Improvement Roadmap](./IMPROVEMENT_ROADMAP.md) - Step-by-step guide to reach professional quality
+- [Quick Reference](./QUICK_REFERENCE.md) - Summary of critical issues and fixes
+
+**Recommendation:** Review the quality assessment and implement the quick wins before proceeding with institutional deployment.
 
 ---
 
